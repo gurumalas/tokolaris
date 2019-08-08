@@ -1,5 +1,19 @@
 ## Toko Laris
- <p style="color:#000" align="center">Project Uji Coba Toko Online , DILARANG KERAS MEMAKAI DENGAN ALASANN APAPUN !</p>
+ <h1 style="color:#EF4135" align="center"> Attention ! Don't Re-Edit and Use This Project </h1>
+
+<h1>Profile Dev Web Programing</h1>
+
+- Name : Akhmad Riduan
+- Email :  [riduan14.63.0031@gmail.com](mailto:riduan14.63.0031@gmail.com)
+- From : South Borneo, Banjarmasin, Indonesia
+<hr/>
+
+## Website Partner
+
+Kost Koding ->  [Kost Koding](http://kostkoding.student.umm.ac.id) <br/>
+Free Tamplate -> [Free Tamplate](https://free-tamplate.blogspot.com)
+
+<hr/>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -72,9 +86,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Website Partner
-Kost Koding ->  [Kost Koding](http://kostkoding.student.umm.ac.id) <br/>
-Free Tamplate -> [Free Tamplate](https://free-tamplate.blogspot.com)
 
 ## How To Install
