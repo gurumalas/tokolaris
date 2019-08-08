@@ -1,5 +1,5 @@
 ##Toko Laris
- <p align="center">Project Uji Coba Toko Online , <code>DILARANG KERAS MEMAKAI DENGAN ALASANN APAPUN</code> !</p>
+ <p style="color:#000" align="center">Project Uji Coba Toko Online , DILARANG KERAS MEMAKAI DENGAN ALASANN APAPUN !</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
