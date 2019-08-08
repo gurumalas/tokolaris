@@ -76,3 +76,5 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 ## Website Partner
 Kost Koding -> http://kostkoding.student.umm.ac.id <br/>
 Free Tamplate -> https://free-tamplate.blogspot.com
+
+## How To Install
